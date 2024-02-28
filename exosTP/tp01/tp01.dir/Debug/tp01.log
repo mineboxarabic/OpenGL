@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/Easen/Desktop/baseGL/exosTP/tp01/CMakeLists.txt
+  main.cpp
+C:\Users\Easen\Desktop\baseGL\glfw-3.3.8\include\GLFW/glfw3.h(1705,1): warning C4820: 'GLFWgammaramp': '4' bytes padding added after data member 'GLFWgammaramp::size'
+C:\Users\Easen\Desktop\baseGL\glfw-3.3.8\include\GLFW/glfw3.h(1753,18): warning C4820: 'GLFWgamepadstate': '1' bytes padding added after data member 'GLFWgamepadstate::buttons'
+C:\Users\Easen\Desktop\baseGL\exosTP\tp01\src\main.cpp(48,69): warning C5039: 'glfwSetFramebufferSizeCallback': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+C:\Users\Easen\Desktop\baseGL\exosTP\tp01\src\main.cpp(50,27): warning C4191: 'type cast': unsafe conversion from 'GLFWglproc (__cdecl *)(const char *)' to 'GLADloadproc'
+          Making a function call using the resulting pointer may cause your program to fail
+C:\Users\Easen\Desktop\baseGL\exosTP\tp01\src\main.cpp(141,48): warning C4365: 'argument': conversion from 'unsigned __int64' to 'GLsizeiptr', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\exosTP\tp01\src\main.cpp(191,44): warning C4100: 'window': unreferenced formal parameter
+  tp01.vcxproj -> C:\Users\Easen\Desktop\baseGL\exosTP\tp01\Debug\tp01.exe

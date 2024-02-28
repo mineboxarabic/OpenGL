@@ -1,0 +1,923 @@
+﻿  Building Custom Rule C:/Users/Easen/Desktop/baseGL/stbimage/CMakeLists.txt
+  stb_image.cpp
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(816,23): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::callback_already_read'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(850,30): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1049,28): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1056,30): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1063,32): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1194,39): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1210,52): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1278,52): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1305,52): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1316,52): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1671,40): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1681,37): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1704,19): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1722,19): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1761,60): warning C4365: 'argument': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1761,57): warning C4365: 'argument': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1776,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1777,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1778,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1779,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1780,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1781,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1782,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1783,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1784,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1785,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1786,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1787,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1833,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1834,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1835,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1836,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1837,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1838,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1839,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1840,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1841,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1842,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1843,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1844,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1943,28): warning C4820: '<unnamed-tag>': '3' bytes padding added after data member '<unnamed-tag>::size'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1970,20): warning C4820: '<unnamed-tag>::<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::h2'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(1980,19): warning C4820: '<unnamed-tag>': '3' bytes padding added after data member '<unnamed-tag>::marker'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2019,23): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2076,22): warning C4365: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2104,45): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2135,56): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2158,25): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2163,13): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2176,11): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2187,13): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2224,45): warning C4365: 'argument': conversion from 'stbi__uint16' to 'short', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2224,32): warning C4242: 'argument': conversion from 'int' to 'short', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2233,48): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2281,35): warning C4242: 'argument': conversion from 'int' to 'short', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(2311,51): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3268,28): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3269,28): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3296,42): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3296,32): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3316,47): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3317,47): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3321,66): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3322,66): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3425,49): warning C4242: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3425,49): warning C4365: '=': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3433,26): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3667,55): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3801,53): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3854,1): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::ypos'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3859,19): warning C4365: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3908,47): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3920,66): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3920,53): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3952,78): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3965,78): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3968,51): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3969,51): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3970,51): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(3974,78): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4005,48): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4019,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4020,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4060,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4061,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4187,1): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::z_distance'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4196,21): warning C4365: 'return': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4226,27): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4330,37): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4332,37): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4346,14): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4347,14): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4348,14): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4353,13): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4367,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4371,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4373,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4378,35): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4411,32): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4468,29): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4469,28): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4501,36): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4522,36): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4613,1): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::depth'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4661,14): warning C4365: 'initializing': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4664,46): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4664,43): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4667,38): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4688,18): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4736,57): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4783,24): warning C4365: 'initializing': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4792,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4793,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4794,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4796,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4798,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4799,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4800,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4801,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4802,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4804,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4805,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4806,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4808,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4809,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4810,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4811,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4812,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4813,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4814,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4815,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4816,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4818,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4819,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4820,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4821,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4822,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4823,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4824,39): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4831,24): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4837,24): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4855,33): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4872,59): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4872,46): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4881,48): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4882,48): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4884,31): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4885,83): warning C4365: 'argument': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4885,80): warning C4365: 'argument': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4894,51): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4919,23): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4944,23): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(4962,38): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5055,29): warning C4365: 'initializing': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5056,43): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5057,43): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5058,43): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5101,28): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5166,92): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5193,47): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5206,109): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5206,103): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5228,58): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5247,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5248,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5249,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5250,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5254,28): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5283,16): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5284,16): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5315,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5316,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5355,22): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5388,13): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5454,32): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5455,35): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5463,31): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5464,31): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5472,20): warning C4365: 'initializing': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5545,18): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5593,50): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5593,40): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5596,59): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5596,49): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5609,49): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5610,54): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5611,40): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5658,37): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5659,41): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5685,26): warning C4365: '=': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5697,21): warning C4365: '=': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5708,33): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5727,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(5728,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6064,80): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6064,69): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6152,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6153,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6177,30): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6180,31): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6183,31): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6203,43): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6233,30): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6253,33): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6258,28): warning C4365: 'initializing': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6313,89): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6313,86): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6315,58): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6315,55): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6526,28): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6535,52): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6535,50): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6569,24): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::codes'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6577,1): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::delay'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6603,26): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6661,43): warning C4365: 'argument': conversion from 'stbi__int16' to 'stbi__uint16', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6792,43): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6793,50): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6794,45): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6801,30): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6802,37): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6803,32): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6835,47): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6839,35): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(6993,39): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7006,40): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7009,53): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7017,40): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7020,55): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7038,70): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7038,62): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7063,57): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7063,52): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7137,43): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7148,10): warning C5262: implicit fall-through occurs here; are you missing a break statement? Use [[fallthrough]] when a break statement is intentionally omitted between cases
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7147,18): message : statement that may fall through is here
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7151,10): warning C5262: implicit fall-through occurs here; are you missing a break statement? Use [[fallthrough]] when a break statement is intentionally omitted between cases
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7150,18): message : statement that may fall through is here
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7345,17): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7346,17): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7378,22): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7379,22): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7517,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7518,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7521,52): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7521,42): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7524,61): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7524,51): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image.h(7526,59): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(499,22): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::input_stride_bytes'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(528,25): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::decode_buffer_pixels'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(547,23): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::ring_buffer_begin_index'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(1260,31): warning C4365: 'initializing': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(1443,129): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(1444,38): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(1891,28): warning C4365: 'initializing': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2002,28): warning C4365: 'initializing': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2132,28): warning C4365: 'initializing': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2231,63): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2232,61): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2234,43): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2235,41): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2260,76): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2261,89): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2262,72): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2263,85): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2264,84): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2265,68): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2266,94): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2267,64): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2287,34): warning C4365: 'return': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2372,70): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2488,49): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2499,49): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2511,49): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2523,49): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2536,49): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2551,49): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2573,54): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_resize.h(2588,53): warning C4365: 'argument': conversion from 'int' to 'stbir_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(273,1): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member '<unnamed-tag>::buf_used'
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(286,18): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(363,37): warning C4365: 'initializing': conversion from 'int' to 'stbiw_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(438,30): warning C4365: '=': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(570,59): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(574,55): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(584,57): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(679,38): warning C4365: '=': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(680,30): warning C4365: '=': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(767,50): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(776,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(864,11): warning C4365: 'return': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(869,22): warning C4365: 'initializing': conversion from 'int' to 'stbiw_uint32', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(924,13): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(930,19): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(943,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(948,22): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(995,46): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1019,4): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1103,35): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1110,38): warning C4365: '=': conversion from 'unsigned char' to 'signed char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1114,38): warning C4365: '=': conversion from 'unsigned char' to 'signed char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1115,38): warning C4365: '=': conversion from 'unsigned char' to 'signed char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1144,29): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1145,34): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1173,7): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1181,28): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1200,4): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1224,19): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1258,23): warning C4365: 'initializing': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage/stb_image_write.h(1325,18): warning C4365: '=': conversion from 'int' to 'unsigned short', signed/unsigned mismatch
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(775): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(772): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(775): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(820): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(819): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(820): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(834): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(833): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(834): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(792): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(791): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(792): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(806): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(805): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(806): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(818): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(817): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(818): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(832): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(831): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(832): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(804): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(803): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(804): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1236): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1227): message : index 'row' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1236): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(574): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(573): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(574): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(570): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(563): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(570): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(597): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(596): message : index 'len' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(597): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(584): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(583): message : index 'len' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(584): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1867): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1866): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1867): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1173): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1146): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1173): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(782): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(763): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(782): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1167): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1148): message : index 'force_filter' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1167): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1159): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1158): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1159): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1154): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1148): message : index 'force_filter' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1154): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1150): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1148): message : index 'force_filter' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1150): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1487): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1483): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1487): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7282): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7229): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7282): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7244): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7229): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7244): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7279): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7278): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7279): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7272): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7261): message : index 'nleft' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7272): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7267): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7261): message : index 'nleft' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7267): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7265): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7263): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(7265): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(995): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(987): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(995): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(981): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(980): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(981): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(974): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(973): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(974): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(944): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(922): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(945): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(939): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(922): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(939): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(930): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(928): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(930): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(961): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(961): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(961): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(948): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(946): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(948): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5793): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5792): message : index 'tga_h' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5793): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5788): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5787): message : index 'tga_w' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5788): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5761): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5760): message : index 'tga_colormap_type' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5761): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(487): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(480): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(487): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(781): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(763): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(781): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1794): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1767): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1794): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1788): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1767): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1788): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1786): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1786): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1786): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1785): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1785): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1785): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1784): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1784): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1784): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1783): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1783): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1783): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1893): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1892): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1893): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6899): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6896): message : index 'pi' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6899): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4410): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4409): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4410): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6824): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6822): message : index 'pi' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6824): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4360): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4359): message : index 'ntot' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4360): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4354): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4352): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4354): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6045): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5969): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6045): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6011): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6010): message : index 'tga_comp' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6011): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6007): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5969): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6007): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5996): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5969): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5996): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5977): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5969): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5977): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5959): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5958): message : index 'tga_palette_len' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5959): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5936): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5933): message : index 'tga_height' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5936): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1653): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1651): message : index 'blen' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1653): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5612): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5601): message : index 'psize' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5612): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5579): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5576): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5579): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6817): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6815): message : index 'pi' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6817): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4303): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4302): message : index 'zout' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4303): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6237): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6230): message : index 'channel' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6237): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6236): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6230): message : index 'channelCount' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6236): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6274): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6273): message : index 'pixelCount' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6274): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6271): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6270): message : index 'pixelCount' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6271): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6266): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6265): message : index 'pixelCount' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6266): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1259): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1257): message : index 'bitCnt' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1259): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2080): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2075): message : index 'y' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2080): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1389): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1374): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1389): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1340): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1339): message : index 'dataOff' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1340): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1336): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1335): message : index 'dataOff' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1336): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2181): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2176): message : index 'y' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2181): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1236): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1228): message : index 'total_contributors' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1236): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1220): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1213): message : index 'total_contributors' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1220): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1681): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1680): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1681): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1673): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1668): message : index 'blen' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1673): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1124): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1124): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1124): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1122): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1122): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1122): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1113): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1108): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1113): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(471): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(469): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(471): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(752): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(749): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(752): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(740): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(737): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(740): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4272): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4268): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4272): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1851): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1824): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1851): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1845): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1824): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1845): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1843): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1843): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1843): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1842): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1842): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1842): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1841): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1841): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1841): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1840): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1840): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(1840): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6432): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6431): message : index 'width' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6432): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6453): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6452): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6453): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6485): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6484): message : index 'count' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6485): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6479): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6478): message : index 'count' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6479): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6469): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6465): message : index 'count' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6469): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4005): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4004): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4005): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3995): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3994): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3999): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3989): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3988): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3989): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3986): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3985): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3986): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3974): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3940): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3974): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1914): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1911): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1914): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6741): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6740): message : index 'len' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6741): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1927): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1924): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1927): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5141): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5138): message : index 'pal_len' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5141): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5190): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5183): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(5190): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2016): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2010): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(2016): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3970): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3940): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3970): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6740): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6718): message : index 'codesize' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6740): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1107): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1103): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1107): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1054): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1051): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1054): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3965): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3940): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3965): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1941): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1938): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1941): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6720): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6718): message : index 'codesize' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(6720): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3960): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3956): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3960): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1198): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1197): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1198): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1068): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1067): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1068): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1087): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1087): message : index 'pb' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1087): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1086): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1086): message : index 'pa' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(1086): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3952): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3940): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3952): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3929): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3926): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3929): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1956): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1953): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1956): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1972): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1969): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1972): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3920): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3897): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3920): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3548): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3542): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3548): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1184): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1165): message : index 'num_contributors' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1184): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3149): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3146): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3149): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3119): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3118): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3119): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(647): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(644): message : index 'maxcomp' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_write.h(647): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3706): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3702): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3706): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1551): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1549): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1563): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1571): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1569): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1584): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1592): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1590): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1606): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1614): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1612): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1629): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1637): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1635): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1651): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1287): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1284): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1287): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1368): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1367): message : index 'c' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1368): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1366): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1363): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1366): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1356): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1353): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1356): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1345): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1344): message : index 'c' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1345): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1343): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1340): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1343): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1333): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1330): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1333): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1322): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1321): message : index 'c' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1322): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1320): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1317): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1320): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1310): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1307): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1310): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1299): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1298): message : index 'c' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1299): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1297): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1294): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1297): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3337): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3319): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3337): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1142): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1138): message : index 'j' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1142): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4886): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4874): message : index 'p' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4886): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1755): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1752): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1755): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1462): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1460): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1482): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1855): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1853): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1856): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4885): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4874): message : index 'p' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4885): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1831): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1726): message : index 'channels' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1831): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4881): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4874): message : index 'p' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4885): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1826): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1824): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1827): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4893): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4890): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4893): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1157): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1156): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1157): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4978): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4977): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4982): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4970): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4969): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4973): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2052): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2051): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2058): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3430): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3429): message : index 'm' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3430): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1004): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1003): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1004): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(639): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(636): message : index 'f' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(639): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(637): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(636): message : index 'f' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(637): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3255): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3243): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3255): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3250): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3243): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3250): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3245): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3243): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3245): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3335): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3319): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3335): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3288): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3283): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3288): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3090): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3087): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3090): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3052): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3048): message : index 'x' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3052): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3044): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3043): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3052): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3026): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3019): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3026): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3022): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3019): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(3022): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2984): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2983): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2993): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2964): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2962): message : index 'i' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2964): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(990): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(981): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(990): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1814): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1811): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1814): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(982): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(981): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(982): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1801): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1726): message : index 'channels' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1801): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(974): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(971): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(974): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1796): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1794): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1797): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1784): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1781): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1784): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1772): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1726): message : index 'channels' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1772): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1767): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1765): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(1768): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(954): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(953): message : index 'max' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(954): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(965): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(962): message : index 'max' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(965): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(963): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(962): message : index 'n' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(963): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(647): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(644): message : index 'f' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(647): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(645): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(644): message : index 'f' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image_resize.h(645): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2372): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2369): message : index 'r' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2372): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2390): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2389): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2401): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2350): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2349): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(2357): message : feeds memory load on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4742): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4742): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4742): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4740): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4740): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4740): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4759): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4759): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4759): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4757): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4757): message : index 'k' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4757): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4702): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4697): message : index '' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4702): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4643): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4643): message : index 'pb' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4643): message : feeds call on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4642): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4642): message : index 'pa' range checked by comparison on this line
+C:\Users\Easen\Desktop\baseGL\stbimage\include\stbimage\stb_image.h(4642): message : feeds call on this line
+  stbimage.vcxproj -> C:\Users\Easen\Desktop\baseGL\stbimage\Debug\stbimage.lib

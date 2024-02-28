@@ -1,0 +1,10 @@
+^C:\USERS\EASEN\DESKTOP\BASEGL\CMAKEFILES\743DFC070214272232A31F1BD5CE2D05\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Easen/Desktop/baseGL -BC:/Users/Easen/Desktop/baseGL --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Easen/Desktop/baseGL/openGLDemo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

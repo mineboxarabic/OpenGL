@@ -1,0 +1,114 @@
+﻿  Building Custom Rule C:/Users/Easen/Desktop/baseGL/glengine/CMakeLists.txt
+  glengine.cpp
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/setup.hpp(33,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_bool2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_bool2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_float2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_float2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int2_sized.hpp(16,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int2_sized.hpp(17,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\ext\../ext/scalar_int_sized.hpp(15,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint2_sized.hpp(16,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint2_sized.hpp(17,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\ext\../ext/scalar_uint_sized.hpp(15,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_bool3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_bool3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_float3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_float3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int3_sized.hpp(16,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int3_sized.hpp(17,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint3_sized.hpp(16,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint3_sized.hpp(17,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_bool4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_bool4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_float4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_float4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_double4_precision.hpp(6,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int4_sized.hpp(16,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_int4_sized.hpp(17,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint4_sized.hpp(16,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/vector_uint4_sized.hpp(17,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double2x2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail\type_mat2x2.inl(1,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double2x3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double2x3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float2x3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float2x3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double2x4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double2x4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float2x4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float2x4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double3x2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double3x2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float3x2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float3x2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double3x3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail\type_mat3x3.inl(1,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double3x3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float3x3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float3x3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double3x4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double3x4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float3x4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float3x4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double4x2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double4x2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float4x2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float4x2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double4x3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double4x3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float4x3.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float4x3_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double4x4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail\type_mat4x4.inl(1,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double4x4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float4x4.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float4x4_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_matrix.inl(1,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_geometric.inl(1,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_exponential.inl(4,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_geometric.inl(2,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_common.inl(4,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_double2x2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float2x2.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\./ext/matrix_float2x2_precision.hpp(5,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(4,10): warning C4464: relative include path contains '..'
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_common.inl(34,39): warning C4514: 'glm::abs': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_common.inl(665,25): warning C4514: 'glm::floatBitsToInt': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_common.inl(684,26): warning C4514: 'glm::floatBitsToUint': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_common.inl(703,27): warning C4514: 'glm::intBitsToFloat': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_common.inl(722,27): warning C4514: 'glm::uintBitsToFloat': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail\type_half.inl(19,3): warning C4514: 'glm::detail::uif32::uif32': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail\type_half.inl(23,3): warning C4514: 'glm::detail::uif32::uif32': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(9,26): warning C4514: 'glm::packUnorm2x16': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(25,26): warning C4514: 'glm::unpackUnorm2x16': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(38,26): warning C4514: 'glm::packSnorm2x16': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(54,26): warning C4514: 'glm::unpackSnorm2x16': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(67,26): warning C4514: 'glm::packUnorm4x8': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(85,26): warning C4514: 'glm::unpackUnorm4x8': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(98,26): warning C4514: 'glm::packSnorm4x8': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(116,31): warning C4514: 'glm::unpackSnorm4x8': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(129,28): warning C4514: 'glm::packDouble2x32': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(143,27): warning C4514: 'glm::unpackDouble2x32': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(156,26): warning C4514: 'glm::packHalf2x16': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_packing.inl(170,26): warning C4514: 'glm::unpackHalf2x16': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_integer.inl(176,26): warning C4514: 'glm::uaddCarry': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_integer.inl(194,26): warning C4514: 'glm::usubBorrow': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_integer.inl(213,26): warning C4514: 'glm::umulExtended': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\detail/func_integer.inl(229,26): warning C4514: 'glm::imulExtended': unreferenced inline function has been removed
+C:\Users\Easen\Desktop\baseGL\glengine\include\glengine/glengine.hpp(17,14): warning C4505: 'GLEngine::GLClearError': unreferenced function with internal linkage has been removed
+C:\Users\Easen\Desktop\baseGL\glengine\include\glengine/glengine.hpp(21,14): warning C4505: 'GLEngine::GLLogCall': unreferenced function with internal linkage has been removed
+C:\Users\Easen\Desktop\baseGL\glm-0.9.9.9\glm\ext\../detail/type_vec4.hpp(101,17): warning C4514: 'glm::vec<4,float,glm::packed_highp>::vec': unreferenced inline function has been removed
+  glengine.vcxproj -> C:\Users\Easen\Desktop\baseGL\glengine\Debug\glengine.lib
