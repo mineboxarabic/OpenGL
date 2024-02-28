@@ -11,6 +11,9 @@ This project is a 3D object viewer that uses OpenGL to render 3D objects, and al
 
 
 ## Screen Shots
+
+## Showcasing the 3D Models and mouse movement
+![](https://i.ibb.co/fD6H6rM/ezgif-2-b86338c856.gif)
 ### Textured Cube
 ![](https://i.ibb.co/1QHWv9K/Screenshot-2024-02-28-143936.png)
 
